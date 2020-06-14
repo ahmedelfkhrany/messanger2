@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/work/Messenger/src/messenger/ApplicationLayer/Messenger.java</file>
+            <file>file:/D:/work/Messenger/src/messenger/DatabaseLayer/UserMySqlRepository.java</file>
+            <file>file:/D:/work/Messenger/src/messenger/DatabaseLayer/MessageMySqlRepository.java</file>
+            <file>file:/D:/work/Messenger/src/messenger/DatabaseLayer/UserRepository.java</file>
+            <file>file:/D:/work/Messenger/src/messenger/DatabaseLayer/MessageRepository.java</file>
+            <file>file:/D:/work/Messenger/src/messenger/DatabaseLayer/UserArraylistRepository.java</file>
+            <file>file:/D:/work/Messenger/src/messenger/DatabaseLayer/MessageArrayListRepository.java</file>
+            <file>file:/D:/work/Messenger/src/messenger/ModelLayer/Message.java</file>
+        </group>
+    </open-files>
+</project-private>
