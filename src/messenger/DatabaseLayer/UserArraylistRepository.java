@@ -15,6 +15,7 @@ import messenger.ModelLayer.User;
 public class UserArraylistRepository extends UserRepository{
 
     ArrayList<User> users = new ArrayList<User>();
+    //comment
 
     public ArrayList<User> getUsers() {
         return users;
